@@ -1,3 +1,3 @@
 # EjemplosClaseEstructurasDeDatos
 
-todavia tengo que investigar como se suben los proyectos desde codelite
+Se encuentra en la rama de master
