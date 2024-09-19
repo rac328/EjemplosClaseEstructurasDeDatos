@@ -1,0 +1,33 @@
+[{
+  "file": "C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo07\\main.cpp",
+  "directory": "C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo07",
+  "command": "clang++ -c C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo07\\main.cpp -o C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo07\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo06\\main.cpp",
+  "directory": "C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo06",
+  "command": "clang++ -c C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo06\\main.cpp -o C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo06\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo05\\main.cpp",
+  "directory": "C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo05",
+  "command": "clang++ -c C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo05\\main.cpp -o C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo05\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo04\\main.cpp",
+  "directory": "C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo04",
+  "command": "clang++ -c C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo04\\main.cpp -o C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo04\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo08\\main.cpp",
+  "directory": "C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo08",
+  "command": "clang++ -c C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo08\\main.cpp -o C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo08\\main.cpp.o  -I. -I.  -pedantic-errors  -g  -Wall  -gdwarf-2  -O0"
+ }, {
+  "file": "C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo03\\main.cpp",
+  "directory": "C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo03",
+  "command": "clang++ -c C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo03\\main.cpp -o C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo03\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo02\\main.cpp",
+  "directory": "C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo02",
+  "command": "clang++ -c C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo02\\main.cpp -o C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo02\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo01\\main.cpp",
+  "directory": "C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo01",
+  "command": "clang++ -c C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo01\\main.cpp -o C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo01\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }]
