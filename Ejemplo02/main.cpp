@@ -12,3 +12,4 @@ int main(int argc, char **argv)
 	cout << "la suma " << x << " mas " << y << " es igual a " << z << endl;
 	return 0;
 }
+/// prueba git
