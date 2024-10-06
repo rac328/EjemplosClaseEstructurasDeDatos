@@ -14,7 +14,7 @@ CurrentFileName        :=
 CurrentFilePath        :=
 CurrentFileFullPath    :=
 User                   :=Ordenador
-Date                   :=9/18/2024
+Date                   :=10/6/2024
 CodeLitePath           :=C:/Users/Ordenador/Desktop/Programas/codelite-amd64-17.0.0/codelite
 MakeDirCommand         :=mkdir
 LinkerName             :=g++
@@ -63,7 +63,7 @@ AS       := as
 ##
 ## User defined environment variables
 ##
-CodeLiteDir:=C:\Users\Ordenador\Desktop\Nueva carpeta (4)\codelite-amd64-17.0.0\codelite
+CodeLiteDir:=E:\EEDD\codelite-amd64-17.0.0\codelite
 Objects0=$(IntermediateDirectory)/main.cpp$(ObjectSuffix) 
 
 

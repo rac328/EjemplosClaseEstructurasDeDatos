@@ -1,4 +1,32 @@
 [{
+  "file": "C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\EjercicioNodosPersonas\\Pila.hpp",
+  "directory": "C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\EjercicioNodosPersonas",
+  "command": "clang++ -c C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\EjercicioNodosPersonas\\Pila.hpp -o C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\EjercicioNodosPersonas\\Pila.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\EjercicioNodosPersonas\\NodoPila.cpp",
+  "directory": "C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\EjercicioNodosPersonas",
+  "command": "clang++ -c C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\EjercicioNodosPersonas\\NodoPila.cpp -o C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\EjercicioNodosPersonas\\NodoPila.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\EjercicioNodosPersonas\\Pila.cpp",
+  "directory": "C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\EjercicioNodosPersonas",
+  "command": "clang++ -c C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\EjercicioNodosPersonas\\Pila.cpp -o C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\EjercicioNodosPersonas\\Pila.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\EjercicioNodosPersonas\\main.cpp",
+  "directory": "C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\EjercicioNodosPersonas",
+  "command": "clang++ -c C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\EjercicioNodosPersonas\\main.cpp -o C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\EjercicioNodosPersonas\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\EjercicioNodosPersonas\\Persona.cpp",
+  "directory": "C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\EjercicioNodosPersonas",
+  "command": "clang++ -c C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\EjercicioNodosPersonas\\Persona.cpp -o C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\EjercicioNodosPersonas\\Persona.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\EjercicioNodosPersonas\\NodoPila.hpp",
+  "directory": "C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\EjercicioNodosPersonas",
+  "command": "clang++ -c C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\EjercicioNodosPersonas\\NodoPila.hpp -o C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\EjercicioNodosPersonas\\NodoPila.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\EjercicioNodosPersonas\\Persona.hpp",
+  "directory": "C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\EjercicioNodosPersonas",
+  "command": "clang++ -c C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\EjercicioNodosPersonas\\Persona.hpp -o C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\EjercicioNodosPersonas\\Persona.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
   "file": "C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo_Pila\\Pila.hpp",
   "directory": "C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo_Pila",
   "command": "clang++ -c C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo_Pila\\Pila.hpp -o C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo_Pila\\Pila.hpp.o  -I. -I.  -gdwarf-2  -fstandalone-debug  -O0  -Wall"
@@ -6,10 +34,6 @@
   "file": "C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo_Pila\\NodoPila.cpp",
   "directory": "C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo_Pila",
   "command": "clang++ -c C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo_Pila\\NodoPila.cpp -o C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo_Pila\\NodoPila.cpp.o  -I. -I.  -gdwarf-2  -fstandalone-debug  -O0  -Wall"
- }, {
-  "file": "C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo_Pila\\Pila.cpp",
-  "directory": "C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo_Pila",
-  "command": "clang++ -c C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo_Pila\\Pila.cpp -o C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo_Pila\\Pila.cpp.o  -I. -I.  -gdwarf-2  -fstandalone-debug  -O0  -Wall"
  }, {
   "file": "C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo_Pila\\NodoCola.hpp",
   "directory": "C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo_Pila",
@@ -22,6 +46,10 @@
   "file": "C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo_Pila\\Colas.cpp",
   "directory": "C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo_Pila",
   "command": "clang++ -c C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo_Pila\\Colas.cpp -o C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo_Pila\\Colas.cpp.o  -I. -I.  -gdwarf-2  -fstandalone-debug  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo_Pila\\PilaE.cpp",
+  "directory": "C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo_Pila",
+  "command": "clang++ -c C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo_Pila\\PilaE.cpp -o C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo_Pila\\PilaE.cpp.o  -I. -I.  -gdwarf-2  -fstandalone-debug  -O0  -Wall"
  }, {
   "file": "C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo_Pila\\NodoPila.hpp",
   "directory": "C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo_Pila",
