@@ -1,125 +1,125 @@
 [{
-  "file": "C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\EjercicioNodosPersonas\\Pila.hpp",
-  "directory": "C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\EjercicioNodosPersonas",
-  "command": "clang++ -c C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\EjercicioNodosPersonas\\Pila.hpp -o C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\EjercicioNodosPersonas\\Pila.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\EjercicioNodosPersonas\\NodoPila.hpp",
+  "directory": "C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\EjercicioNodosPersonas",
+  "command": "clang++ -c C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\EjercicioNodosPersonas\\NodoPila.hpp -o C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\EjercicioNodosPersonas\\NodoPila.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\EjercicioNodosPersonas\\NodoPila.cpp",
-  "directory": "C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\EjercicioNodosPersonas",
-  "command": "clang++ -c C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\EjercicioNodosPersonas\\NodoPila.cpp -o C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\EjercicioNodosPersonas\\NodoPila.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\EjercicioNodosPersonas\\Pila.cpp",
+  "directory": "C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\EjercicioNodosPersonas",
+  "command": "clang++ -c C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\EjercicioNodosPersonas\\Pila.cpp -o C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\EjercicioNodosPersonas\\Pila.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\EjercicioNodosPersonas\\Pila.cpp",
-  "directory": "C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\EjercicioNodosPersonas",
-  "command": "clang++ -c C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\EjercicioNodosPersonas\\Pila.cpp -o C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\EjercicioNodosPersonas\\Pila.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\EjercicioNodosPersonas\\Persona.hpp",
+  "directory": "C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\EjercicioNodosPersonas",
+  "command": "clang++ -c C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\EjercicioNodosPersonas\\Persona.hpp -o C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\EjercicioNodosPersonas\\Persona.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\EjercicioNodosPersonas\\main.cpp",
-  "directory": "C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\EjercicioNodosPersonas",
-  "command": "clang++ -c C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\EjercicioNodosPersonas\\main.cpp -o C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\EjercicioNodosPersonas\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\EjercicioNodosPersonas\\Pila.hpp",
+  "directory": "C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\EjercicioNodosPersonas",
+  "command": "clang++ -c C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\EjercicioNodosPersonas\\Pila.hpp -o C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\EjercicioNodosPersonas\\Pila.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\EjercicioNodosPersonas\\Persona.cpp",
-  "directory": "C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\EjercicioNodosPersonas",
-  "command": "clang++ -c C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\EjercicioNodosPersonas\\Persona.cpp -o C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\EjercicioNodosPersonas\\Persona.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\EjercicioNodosPersonas\\NodoPila.cpp",
+  "directory": "C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\EjercicioNodosPersonas",
+  "command": "clang++ -c C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\EjercicioNodosPersonas\\NodoPila.cpp -o C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\EjercicioNodosPersonas\\NodoPila.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\EjercicioNodosPersonas\\NodoPila.hpp",
-  "directory": "C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\EjercicioNodosPersonas",
-  "command": "clang++ -c C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\EjercicioNodosPersonas\\NodoPila.hpp -o C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\EjercicioNodosPersonas\\NodoPila.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\EjercicioNodosPersonas\\Persona.cpp",
+  "directory": "C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\EjercicioNodosPersonas",
+  "command": "clang++ -c C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\EjercicioNodosPersonas\\Persona.cpp -o C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\EjercicioNodosPersonas\\Persona.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\EjercicioNodosPersonas\\Persona.hpp",
-  "directory": "C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\EjercicioNodosPersonas",
-  "command": "clang++ -c C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\EjercicioNodosPersonas\\Persona.hpp -o C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\EjercicioNodosPersonas\\Persona.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\EjercicioNodosPersonas\\main.cpp",
+  "directory": "C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\EjercicioNodosPersonas",
+  "command": "clang++ -c C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\EjercicioNodosPersonas\\main.cpp -o C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\EjercicioNodosPersonas\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo_Pila\\NodoPilas.hpp",
-  "directory": "C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo_Pila",
-  "command": "clang++ -c C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo_Pila\\NodoPilas.hpp -o C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo_Pila\\NodoPilas.hpp.o  -I. -I.  -gdwarf-2  -fstandalone-debug  -O0  -Wall"
+  "file": "C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\Ejemplo_Pila\\Colas.hpp",
+  "directory": "C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\Ejemplo_Pila",
+  "command": "clang++ -c C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\Ejemplo_Pila\\Colas.hpp -o C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\Ejemplo_Pila\\Colas.hpp.o  -I. -I.  -gdwarf-2  -fstandalone-debug  -O0  -Wall"
  }, {
-  "file": "C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo_Pila\\Pilas.hpp",
-  "directory": "C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo_Pila",
-  "command": "clang++ -c C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo_Pila\\Pilas.hpp -o C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo_Pila\\Pilas.hpp.o  -I. -I.  -gdwarf-2  -fstandalone-debug  -O0  -Wall"
+  "file": "C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\Ejemplo_Pila\\NodoColas.hpp",
+  "directory": "C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\Ejemplo_Pila",
+  "command": "clang++ -c C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\Ejemplo_Pila\\NodoColas.hpp -o C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\Ejemplo_Pila\\NodoColas.hpp.o  -I. -I.  -gdwarf-2  -fstandalone-debug  -O0  -Wall"
  }, {
-  "file": "C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo_Pila\\NodoPila.cpp",
-  "directory": "C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo_Pila",
-  "command": "clang++ -c C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo_Pila\\NodoPila.cpp -o C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo_Pila\\NodoPila.cpp.o  -I. -I.  -gdwarf-2  -fstandalone-debug  -O0  -Wall"
+  "file": "C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\Ejemplo_Pila\\NodoPilas.hpp",
+  "directory": "C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\Ejemplo_Pila",
+  "command": "clang++ -c C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\Ejemplo_Pila\\NodoPilas.hpp -o C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\Ejemplo_Pila\\NodoPilas.hpp.o  -I. -I.  -gdwarf-2  -fstandalone-debug  -O0  -Wall"
  }, {
-  "file": "C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo_Pila\\Colas.cpp",
-  "directory": "C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo_Pila",
-  "command": "clang++ -c C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo_Pila\\Colas.cpp -o C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo_Pila\\Colas.cpp.o  -I. -I.  -gdwarf-2  -fstandalone-debug  -O0  -Wall"
+  "file": "C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\Ejemplo_Pila\\NodoPila.cpp",
+  "directory": "C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\Ejemplo_Pila",
+  "command": "clang++ -c C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\Ejemplo_Pila\\NodoPila.cpp -o C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\Ejemplo_Pila\\NodoPila.cpp.o  -I. -I.  -gdwarf-2  -fstandalone-debug  -O0  -Wall"
  }, {
-  "file": "C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo_Pila\\PilaE.cpp",
-  "directory": "C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo_Pila",
-  "command": "clang++ -c C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo_Pila\\PilaE.cpp -o C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo_Pila\\PilaE.cpp.o  -I. -I.  -gdwarf-2  -fstandalone-debug  -O0  -Wall"
+  "file": "C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\Ejemplo_Pila\\NodoCola.cpp",
+  "directory": "C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\Ejemplo_Pila",
+  "command": "clang++ -c C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\Ejemplo_Pila\\NodoCola.cpp -o C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\Ejemplo_Pila\\NodoCola.cpp.o  -I. -I.  -gdwarf-2  -fstandalone-debug  -O0  -Wall"
  }, {
-  "file": "C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo_Pila\\Colas.hpp",
-  "directory": "C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo_Pila",
-  "command": "clang++ -c C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo_Pila\\Colas.hpp -o C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo_Pila\\Colas.hpp.o  -I. -I.  -gdwarf-2  -fstandalone-debug  -O0  -Wall"
+  "file": "C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\Ejemplo_Pila\\Colas.cpp",
+  "directory": "C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\Ejemplo_Pila",
+  "command": "clang++ -c C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\Ejemplo_Pila\\Colas.cpp -o C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\Ejemplo_Pila\\Colas.cpp.o  -I. -I.  -gdwarf-2  -fstandalone-debug  -O0  -Wall"
  }, {
-  "file": "C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo_Pila\\NodoColas.hpp",
-  "directory": "C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo_Pila",
-  "command": "clang++ -c C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo_Pila\\NodoColas.hpp -o C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo_Pila\\NodoColas.hpp.o  -I. -I.  -gdwarf-2  -fstandalone-debug  -O0  -Wall"
+  "file": "C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\Ejemplo_Pila\\Pilas.hpp",
+  "directory": "C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\Ejemplo_Pila",
+  "command": "clang++ -c C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\Ejemplo_Pila\\Pilas.hpp -o C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\Ejemplo_Pila\\Pilas.hpp.o  -I. -I.  -gdwarf-2  -fstandalone-debug  -O0  -Wall"
  }, {
-  "file": "C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo_Pila\\NodoCola.cpp",
-  "directory": "C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo_Pila",
-  "command": "clang++ -c C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo_Pila\\NodoCola.cpp -o C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo_Pila\\NodoCola.cpp.o  -I. -I.  -gdwarf-2  -fstandalone-debug  -O0  -Wall"
+  "file": "C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\Ejemplo_Pila\\PilaE.cpp",
+  "directory": "C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\Ejemplo_Pila",
+  "command": "clang++ -c C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\Ejemplo_Pila\\PilaE.cpp -o C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\Ejemplo_Pila\\PilaE.cpp.o  -I. -I.  -gdwarf-2  -fstandalone-debug  -O0  -Wall"
  }, {
-  "file": "C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo_Pila\\main.cpp",
-  "directory": "C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo_Pila",
-  "command": "clang++ -c C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo_Pila\\main.cpp -o C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo_Pila\\main.cpp.o  -I. -I.  -gdwarf-2  -fstandalone-debug  -O0  -Wall"
+  "file": "C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\Ejemplo_Pila\\main.cpp",
+  "directory": "C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\Ejemplo_Pila",
+  "command": "clang++ -c C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\Ejemplo_Pila\\main.cpp -o C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\Ejemplo_Pila\\main.cpp.o  -I. -I.  -gdwarf-2  -fstandalone-debug  -O0  -Wall"
  }, {
-  "file": "C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo13\\Personal.hpp",
-  "directory": "C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo13",
-  "command": "clang++ -c C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo13\\Personal.hpp -o C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo13\\Personal.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\Ejemplo13\\Personal.hpp",
+  "directory": "C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\Ejemplo13",
+  "command": "clang++ -c C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\Ejemplo13\\Personal.hpp -o C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\Ejemplo13\\Personal.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo13\\Personal.cpp",
-  "directory": "C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo13",
-  "command": "clang++ -c C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo13\\Personal.cpp -o C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo13\\Personal.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\Ejemplo13\\Personal.cpp",
+  "directory": "C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\Ejemplo13",
+  "command": "clang++ -c C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\Ejemplo13\\Personal.cpp -o C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\Ejemplo13\\Personal.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo13\\main.cpp",
-  "directory": "C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo13",
-  "command": "clang++ -c C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo13\\main.cpp -o C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo13\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\Ejemplo13\\main.cpp",
+  "directory": "C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\Ejemplo13",
+  "command": "clang++ -c C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\Ejemplo13\\main.cpp -o C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\Ejemplo13\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo12\\main.cpp",
-  "directory": "C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo12",
-  "command": "clang++ -c C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo12\\main.cpp -o C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo12\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\Ejemplo12\\main.cpp",
+  "directory": "C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\Ejemplo12",
+  "command": "clang++ -c C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\Ejemplo12\\main.cpp -o C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\Ejemplo12\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo09\\main.cpp",
-  "directory": "C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo09",
-  "command": "clang++ -c C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo09\\main.cpp -o C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo09\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\Ejemplo09\\main.cpp",
+  "directory": "C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\Ejemplo09",
+  "command": "clang++ -c C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\Ejemplo09\\main.cpp -o C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\Ejemplo09\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo07\\main.cpp",
-  "directory": "C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo07",
-  "command": "clang++ -c C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo07\\main.cpp -o C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo07\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\Ejemplo07\\main.cpp",
+  "directory": "C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\Ejemplo07",
+  "command": "clang++ -c C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\Ejemplo07\\main.cpp -o C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\Ejemplo07\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo06\\main.cpp",
-  "directory": "C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo06",
-  "command": "clang++ -c C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo06\\main.cpp -o C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo06\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\Ejemplo06\\main.cpp",
+  "directory": "C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\Ejemplo06",
+  "command": "clang++ -c C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\Ejemplo06\\main.cpp -o C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\Ejemplo06\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo05\\main.cpp",
-  "directory": "C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo05",
-  "command": "clang++ -c C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo05\\main.cpp -o C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo05\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\Ejemplo05\\main.cpp",
+  "directory": "C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\Ejemplo05",
+  "command": "clang++ -c C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\Ejemplo05\\main.cpp -o C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\Ejemplo05\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo04\\main.cpp",
-  "directory": "C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo04",
-  "command": "clang++ -c C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo04\\main.cpp -o C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo04\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\Ejemplo04\\main.cpp",
+  "directory": "C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\Ejemplo04",
+  "command": "clang++ -c C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\Ejemplo04\\main.cpp -o C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\Ejemplo04\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo11\\main.cpp",
-  "directory": "C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo11",
-  "command": "clang++ -c C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo11\\main.cpp -o C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo11\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\Ejemplo11\\main.cpp",
+  "directory": "C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\Ejemplo11",
+  "command": "clang++ -c C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\Ejemplo11\\main.cpp -o C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\Ejemplo11\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo08\\main.cpp",
-  "directory": "C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo08",
-  "command": "clang++ -c C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo08\\main.cpp -o C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo08\\main.cpp.o  -I. -I.  -pedantic-errors  -g  -Wall  -gdwarf-2  -O0"
+  "file": "C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\Ejemplo08\\main.cpp",
+  "directory": "C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\Ejemplo08",
+  "command": "clang++ -c C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\Ejemplo08\\main.cpp -o C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\Ejemplo08\\main.cpp.o  -I. -I.  -pedantic-errors  -g  -Wall  -gdwarf-2  -O0"
  }, {
-  "file": "C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo01\\main.cpp",
-  "directory": "C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo01",
-  "command": "clang++ -c C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo01\\main.cpp -o C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo01\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\Ejemplo01\\main.cpp",
+  "directory": "C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\Ejemplo01",
+  "command": "clang++ -c C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\Ejemplo01\\main.cpp -o C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\Ejemplo01\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo03\\main.cpp",
-  "directory": "C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo03",
-  "command": "clang++ -c C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo03\\main.cpp -o C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo03\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\Ejemplo03\\main.cpp",
+  "directory": "C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\Ejemplo03",
+  "command": "clang++ -c C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\Ejemplo03\\main.cpp -o C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\Ejemplo03\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo10\\main.cpp",
-  "directory": "C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo10",
-  "command": "clang++ -c C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo10\\main.cpp -o C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo10\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\Ejemplo10\\main.cpp",
+  "directory": "C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\Ejemplo10",
+  "command": "clang++ -c C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\Ejemplo10\\main.cpp -o C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\Ejemplo10\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo02\\main.cpp",
-  "directory": "C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo02",
-  "command": "clang++ -c C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo02\\main.cpp -o C:\\Users\\Ordenador\\Documents\\EstructuraDatos\\Ejemplo02\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\Ejemplo02\\main.cpp",
+  "directory": "C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\Ejemplo02",
+  "command": "clang++ -c C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\Ejemplo02\\main.cpp -o C:\\Users\\Ordenador\\Documents\\GitHub\\EjemplosClaseEstructurasDeDatos\\Ejemplo02\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }]

@@ -4,9 +4,9 @@ class Pila{
 public:
 	Pila();
 	~Pila();
-	void insertar(Persona persona);
-	Persona extraer();
-	Persona cima();
+	void insertar(Persona* persona);
+	Persona* extraer();
+	Persona* cima();
 	void mostrar();
 	int getLongitud();
 	

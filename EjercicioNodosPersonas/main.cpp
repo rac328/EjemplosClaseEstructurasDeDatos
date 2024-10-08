@@ -1,14 +1,13 @@
 #include <stdio.h>
 #include "Pila.hpp"
-#include "Persona.hpp"
 
 int main(int argc, char **argv)
 {
 	Pila pilotes;
 	Persona* pepe = new Persona(32,true);
 	
-	//pepe.mostrar();
-	//pilotes.insertar(pepe);
-	//pilotes.mostrar();
+	pepe->mostrar();
+	pilotes.insertar(pepe);
+	pilotes.mostrar();
 	return 0;
 }

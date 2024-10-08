@@ -6,8 +6,8 @@
 ProjectName            :=EjercicioNodosPersonas
 ConfigurationName      :=Debug
 WorkspaceConfiguration :=Debug
-WorkspacePath          :=C:/Users/Ordenador/Documents/EstructuraDatos
-ProjectPath            :=C:/Users/Ordenador/Documents/EstructuraDatos/EjercicioNodosPersonas
+WorkspacePath          :=C:/Users/Ordenador/Documents/GitHub/EjemplosClaseEstructurasDeDatos
+ProjectPath            :=C:/Users/Ordenador/Documents/GitHub/EjemplosClaseEstructurasDeDatos/EjercicioNodosPersonas
 IntermediateDirectory  :=../build-$(WorkspaceConfiguration)/EjercicioNodosPersonas
 OutDir                 :=$(IntermediateDirectory)
 CurrentFileName        :=
@@ -29,7 +29,7 @@ OutputSwitch           :=-o
 LibraryPathSwitch      :=-L
 PreprocessorSwitch     :=-D
 SourceSwitch           :=-c 
-OutputDirectory        :=C:/Users/Ordenador/Documents/EstructuraDatos/build-$(WorkspaceConfiguration)/bin
+OutputDirectory        :=C:/Users/Ordenador/Documents/GitHub/EjemplosClaseEstructurasDeDatos/build-$(WorkspaceConfiguration)/bin
 OutputFile             :=..\build-$(WorkspaceConfiguration)\bin\$(ProjectName).exe
 Preprocessors          :=
 ObjectSwitch           :=-o 
@@ -64,7 +64,7 @@ AS       := as
 ## User defined environment variables
 ##
 CodeLiteDir:=C:\Users\Ordenador\Desktop\Programas\codelite-amd64-17.0.0\codelite
-Objects0=$(IntermediateDirectory)/NodoPila.cpp$(ObjectSuffix) $(IntermediateDirectory)/Pila.cpp$(ObjectSuffix) $(IntermediateDirectory)/main.cpp$(ObjectSuffix) $(IntermediateDirectory)/Persona.cpp$(ObjectSuffix) 
+Objects0=$(IntermediateDirectory)/Pila.cpp$(ObjectSuffix) $(IntermediateDirectory)/NodoPila.cpp$(ObjectSuffix) $(IntermediateDirectory)/Persona.cpp$(ObjectSuffix) $(IntermediateDirectory)/main.cpp$(ObjectSuffix) 
 
 
 
@@ -95,25 +95,25 @@ PreBuild:
 ##
 ## Objects
 ##
-$(IntermediateDirectory)/NodoPila.cpp$(ObjectSuffix): NodoPila.cpp 
-	$(CXX) $(IncludePCH) $(SourceSwitch) "C:/Users/Ordenador/Documents/EstructuraDatos/EjercicioNodosPersonas/NodoPila.cpp" $(CXXFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/NodoPila.cpp$(ObjectSuffix) $(IncludePath)
-$(IntermediateDirectory)/NodoPila.cpp$(PreprocessSuffix): NodoPila.cpp
-	$(CXX) $(CXXFLAGS) $(IncludePCH) $(IncludePath) $(PreprocessOnlySwitch) $(OutputSwitch) $(IntermediateDirectory)/NodoPila.cpp$(PreprocessSuffix) NodoPila.cpp
-
 $(IntermediateDirectory)/Pila.cpp$(ObjectSuffix): Pila.cpp 
-	$(CXX) $(IncludePCH) $(SourceSwitch) "C:/Users/Ordenador/Documents/EstructuraDatos/EjercicioNodosPersonas/Pila.cpp" $(CXXFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/Pila.cpp$(ObjectSuffix) $(IncludePath)
+	$(CXX) $(IncludePCH) $(SourceSwitch) "C:/Users/Ordenador/Documents/GitHub/EjemplosClaseEstructurasDeDatos/EjercicioNodosPersonas/Pila.cpp" $(CXXFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/Pila.cpp$(ObjectSuffix) $(IncludePath)
 $(IntermediateDirectory)/Pila.cpp$(PreprocessSuffix): Pila.cpp
 	$(CXX) $(CXXFLAGS) $(IncludePCH) $(IncludePath) $(PreprocessOnlySwitch) $(OutputSwitch) $(IntermediateDirectory)/Pila.cpp$(PreprocessSuffix) Pila.cpp
 
-$(IntermediateDirectory)/main.cpp$(ObjectSuffix): main.cpp 
-	$(CXX) $(IncludePCH) $(SourceSwitch) "C:/Users/Ordenador/Documents/EstructuraDatos/EjercicioNodosPersonas/main.cpp" $(CXXFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/main.cpp$(ObjectSuffix) $(IncludePath)
-$(IntermediateDirectory)/main.cpp$(PreprocessSuffix): main.cpp
-	$(CXX) $(CXXFLAGS) $(IncludePCH) $(IncludePath) $(PreprocessOnlySwitch) $(OutputSwitch) $(IntermediateDirectory)/main.cpp$(PreprocessSuffix) main.cpp
+$(IntermediateDirectory)/NodoPila.cpp$(ObjectSuffix): NodoPila.cpp 
+	$(CXX) $(IncludePCH) $(SourceSwitch) "C:/Users/Ordenador/Documents/GitHub/EjemplosClaseEstructurasDeDatos/EjercicioNodosPersonas/NodoPila.cpp" $(CXXFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/NodoPila.cpp$(ObjectSuffix) $(IncludePath)
+$(IntermediateDirectory)/NodoPila.cpp$(PreprocessSuffix): NodoPila.cpp
+	$(CXX) $(CXXFLAGS) $(IncludePCH) $(IncludePath) $(PreprocessOnlySwitch) $(OutputSwitch) $(IntermediateDirectory)/NodoPila.cpp$(PreprocessSuffix) NodoPila.cpp
 
 $(IntermediateDirectory)/Persona.cpp$(ObjectSuffix): Persona.cpp 
-	$(CXX) $(IncludePCH) $(SourceSwitch) "C:/Users/Ordenador/Documents/EstructuraDatos/EjercicioNodosPersonas/Persona.cpp" $(CXXFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/Persona.cpp$(ObjectSuffix) $(IncludePath)
+	$(CXX) $(IncludePCH) $(SourceSwitch) "C:/Users/Ordenador/Documents/GitHub/EjemplosClaseEstructurasDeDatos/EjercicioNodosPersonas/Persona.cpp" $(CXXFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/Persona.cpp$(ObjectSuffix) $(IncludePath)
 $(IntermediateDirectory)/Persona.cpp$(PreprocessSuffix): Persona.cpp
 	$(CXX) $(CXXFLAGS) $(IncludePCH) $(IncludePath) $(PreprocessOnlySwitch) $(OutputSwitch) $(IntermediateDirectory)/Persona.cpp$(PreprocessSuffix) Persona.cpp
+
+$(IntermediateDirectory)/main.cpp$(ObjectSuffix): main.cpp 
+	$(CXX) $(IncludePCH) $(SourceSwitch) "C:/Users/Ordenador/Documents/GitHub/EjemplosClaseEstructurasDeDatos/EjercicioNodosPersonas/main.cpp" $(CXXFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/main.cpp$(ObjectSuffix) $(IncludePath)
+$(IntermediateDirectory)/main.cpp$(PreprocessSuffix): main.cpp
+	$(CXX) $(CXXFLAGS) $(IncludePCH) $(IncludePath) $(PreprocessOnlySwitch) $(OutputSwitch) $(IntermediateDirectory)/main.cpp$(PreprocessSuffix) main.cpp
 
 ##
 ## Clean

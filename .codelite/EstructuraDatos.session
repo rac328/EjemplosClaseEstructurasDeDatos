@@ -1,75 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Session Name="C:\Users\Ordenador\Documents\EstructuraDatos\EstructuraDatos.workspace">
-  <int Value="9" Name="m_selectedTab"/>
-  <wxString Value="C:\Users\Ordenador\Documents\EstructuraDatos\EstructuraDatos.workspace" Name="m_workspaceName"/>
+<Session Name="C:\Users\Ordenador\Documents\GitHub\EjemplosClaseEstructurasDeDatos\EstructuraDatos.workspace">
+  <int Value="2" Name="m_selectedTab"/>
+  <wxString Value="C:\Users\Ordenador\Documents\GitHub\EjemplosClaseEstructurasDeDatos\EstructuraDatos.workspace" Name="m_workspaceName"/>
   <TabInfoArray Name="TabInfoArray">
     <TabInfo>
-      <wxString Value="C:\Users\Ordenador\Documents\EstructuraDatos\EjercicioNodosPersonas\main.cpp" Name="FileName"/>
+      <wxString Value="C:\Users\Ordenador\Documents\GitHub\EjemplosClaseEstructurasDeDatos\EjercicioNodosPersonas\NodoPila.hpp" Name="FileName"/>
       <int Value="0" Name="FirstVisibleLine"/>
-      <int Value="0" Name="CurrentLine"/>
+      <int Value="9" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
     </TabInfo>
     <TabInfo>
-      <wxString Value="C:\Users\Ordenador\Documents\EstructuraDatos\EjercicioNodosPersonas\Persona.hpp" Name="FileName"/>
+      <wxString Value="C:\Users\Ordenador\Documents\GitHub\EjemplosClaseEstructurasDeDatos\EjercicioNodosPersonas\Pila.hpp" Name="FileName"/>
       <int Value="0" Name="FirstVisibleLine"/>
-      <int Value="0" Name="CurrentLine"/>
+      <int Value="8" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
     </TabInfo>
     <TabInfo>
-      <wxString Value="C:\Users\Ordenador\Documents\EstructuraDatos\EjercicioNodosPersonas\Persona.cpp" Name="FileName"/>
-      <int Value="0" Name="FirstVisibleLine"/>
-      <int Value="0" Name="CurrentLine"/>
+      <wxString Value="C:\Users\Ordenador\Documents\GitHub\EjemplosClaseEstructurasDeDatos\EjercicioNodosPersonas\main.cpp" Name="FileName"/>
+      <int Value="3" Name="FirstVisibleLine"/>
+      <int Value="9" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
     </TabInfo>
     <TabInfo>
-      <wxString Value="C:\Users\Ordenador\Documents\EstructuraDatos\EjercicioNodosPersonas\Pila.hpp" Name="FileName"/>
+      <wxString Value="C:\Users\Ordenador\Documents\GitHub\EjemplosClaseEstructurasDeDatos\EjercicioNodosPersonas\Persona.cpp" Name="FileName"/>
       <int Value="0" Name="FirstVisibleLine"/>
-      <int Value="0" Name="CurrentLine"/>
+      <int Value="8" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
     </TabInfo>
     <TabInfo>
-      <wxString Value="C:\Users\Ordenador\Documents\EstructuraDatos\EjercicioNodosPersonas\NodoPila.hpp" Name="FileName"/>
-      <int Value="0" Name="FirstVisibleLine"/>
-      <int Value="0" Name="CurrentLine"/>
+      <wxString Value="C:\Users\Ordenador\Documents\GitHub\EjemplosClaseEstructurasDeDatos\EjercicioNodosPersonas\Pila.cpp" Name="FileName"/>
+      <int Value="26" Name="FirstVisibleLine"/>
+      <int Value="35" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
     </TabInfo>
     <TabInfo>
-      <wxString Value="C:\Users\Ordenador\Documents\EstructuraDatos\EjercicioNodosPersonas\NodoPila.cpp" Name="FileName"/>
+      <wxString Value="C:\Users\Ordenador\Documents\GitHub\EjemplosClaseEstructurasDeDatos\EjercicioNodosPersonas\NodoPila.cpp" Name="FileName"/>
       <int Value="0" Name="FirstVisibleLine"/>
-      <int Value="0" Name="CurrentLine"/>
-      <wxArrayString Name="Bookmarks"/>
-      <IntVector Name="CollapsedFolds"/>
-    </TabInfo>
-    <TabInfo>
-      <wxString Value="C:\Users\Ordenador\Documents\EstructuraDatos\EjercicioNodosPersonas\Pila.cpp" Name="FileName"/>
-      <int Value="0" Name="FirstVisibleLine"/>
-      <int Value="0" Name="CurrentLine"/>
-      <wxArrayString Name="Bookmarks"/>
-      <IntVector Name="CollapsedFolds"/>
-    </TabInfo>
-    <TabInfo>
-      <wxString Value="C:\Users\Ordenador\Documents\EstructuraDatos\Ejemplo13\Personal.cpp" Name="FileName"/>
-      <int Value="0" Name="FirstVisibleLine"/>
-      <int Value="0" Name="CurrentLine"/>
-      <wxArrayString Name="Bookmarks"/>
-      <IntVector Name="CollapsedFolds"/>
-    </TabInfo>
-    <TabInfo>
-      <wxString Value="C:\Users\Ordenador\Documents\EstructuraDatos\Ejemplo13\Personal.hpp" Name="FileName"/>
-      <int Value="0" Name="FirstVisibleLine"/>
-      <int Value="6" Name="CurrentLine"/>
-      <wxArrayString Name="Bookmarks"/>
-      <IntVector Name="CollapsedFolds"/>
-    </TabInfo>
-    <TabInfo>
-      <wxString Value="C:\Users\Ordenador\Documents\EstructuraDatos\Ejemplo13\main.cpp" Name="FileName"/>
-      <int Value="0" Name="FirstVisibleLine"/>
-      <int Value="6" Name="CurrentLine"/>
+      <int Value="2" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
     </TabInfo>

@@ -6,7 +6,7 @@ using namespace std;
 Persona::Persona(int edad, bool genero)
 {
 	this->edad = edad;
-	this->genero = (2 % 2);
+	this->genero = genero;
 }
 int Persona::getEdad(){
 	return this->edad;
@@ -22,11 +22,9 @@ void Persona::setEdad(int edad){
 
 void Persona::mostrar(){
 	if(this->genero)
-		//cout << "\t" << "El Hombre" << endl;
-		int pito = 0;
+		cout << "\t" << "El Hombre" <<"tiene "<< edad << endl;
 	else
-		//cout << "\t" << "La Mujer" << endl; 
-		int polla = 0;
+		cout << "\t" << "La Mujer" <<"tiene "<< edad << endl; 
 	}
 
 Persona::~Persona()

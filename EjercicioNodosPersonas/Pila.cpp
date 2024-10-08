@@ -7,32 +7,32 @@ Pila::Pila(){
 	longitud = 0;
 	}
 
-void Pila::insertar(Persona persona){
+void Pila::insertar(Persona* persona){
 	pnodoPila nuevo;
 	nuevo = new NodoPila(persona,ultimo);
 	ultimo = nuevo;
 	longitud++;
 	}
 
-Persona Pila::extraer(){
+Persona* Pila::extraer(){
 	pnodoPila nodo;
 	nodo = ultimo;
 	ultimo = nodo -> siguiente;
-	Persona person = nodo -> persona;
+	Persona* person = nodo -> persona;
 	longitud--;
 	delete nodo;
 	return person;
 	}
 
-Persona Pila::cima(){
-	return ultimo -> persona;
+Persona* Pila::cima(){
+	return ultimo -> persona ;
 	}
 
 void Pila::mostrar(){
 	pnodoPila aux = ultimo;
 	cout << "\tEl contenido de la pila es: " << endl;
 	while(aux){
-		aux->persona.mostrar();
+		aux->persona->mostrar();
 		aux = aux -> siguiente;
 		}
 	cout << endl;

@@ -6,8 +6,8 @@
 ProjectName            :=Ejemplo13
 ConfigurationName      :=Debug
 WorkspaceConfiguration :=Debug
-WorkspacePath          :=C:/Users/Ordenador/Documents/EstructuraDatos
-ProjectPath            :=C:/Users/Ordenador/Documents/EstructuraDatos/Ejemplo13
+WorkspacePath          :=C:/Users/Ordenador/Documents/GitHub/EjemplosClaseEstructurasDeDatos
+ProjectPath            :=C:/Users/Ordenador/Documents/GitHub/EjemplosClaseEstructurasDeDatos/Ejemplo13
 IntermediateDirectory  :=../build-$(WorkspaceConfiguration)/Ejemplo13
 OutDir                 :=$(IntermediateDirectory)
 CurrentFileName        :=
@@ -29,7 +29,7 @@ OutputSwitch           :=-o
 LibraryPathSwitch      :=-L
 PreprocessorSwitch     :=-D
 SourceSwitch           :=-c 
-OutputDirectory        :=C:/Users/Ordenador/Documents/EstructuraDatos/build-$(WorkspaceConfiguration)/bin
+OutputDirectory        :=C:/Users/Ordenador/Documents/GitHub/EjemplosClaseEstructurasDeDatos/build-$(WorkspaceConfiguration)/bin
 OutputFile             :=..\build-$(WorkspaceConfiguration)\bin\$(ProjectName).exe
 Preprocessors          :=
 ObjectSwitch           :=-o 
@@ -96,12 +96,12 @@ PreBuild:
 ## Objects
 ##
 $(IntermediateDirectory)/Personal.cpp$(ObjectSuffix): Personal.cpp 
-	$(CXX) $(IncludePCH) $(SourceSwitch) "C:/Users/Ordenador/Documents/EstructuraDatos/Ejemplo13/Personal.cpp" $(CXXFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/Personal.cpp$(ObjectSuffix) $(IncludePath)
+	$(CXX) $(IncludePCH) $(SourceSwitch) "C:/Users/Ordenador/Documents/GitHub/EjemplosClaseEstructurasDeDatos/Ejemplo13/Personal.cpp" $(CXXFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/Personal.cpp$(ObjectSuffix) $(IncludePath)
 $(IntermediateDirectory)/Personal.cpp$(PreprocessSuffix): Personal.cpp
 	$(CXX) $(CXXFLAGS) $(IncludePCH) $(IncludePath) $(PreprocessOnlySwitch) $(OutputSwitch) $(IntermediateDirectory)/Personal.cpp$(PreprocessSuffix) Personal.cpp
 
 $(IntermediateDirectory)/main.cpp$(ObjectSuffix): main.cpp 
-	$(CXX) $(IncludePCH) $(SourceSwitch) "C:/Users/Ordenador/Documents/EstructuraDatos/Ejemplo13/main.cpp" $(CXXFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/main.cpp$(ObjectSuffix) $(IncludePath)
+	$(CXX) $(IncludePCH) $(SourceSwitch) "C:/Users/Ordenador/Documents/GitHub/EjemplosClaseEstructurasDeDatos/Ejemplo13/main.cpp" $(CXXFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/main.cpp$(ObjectSuffix) $(IncludePath)
 $(IntermediateDirectory)/main.cpp$(PreprocessSuffix): main.cpp
 	$(CXX) $(CXXFLAGS) $(IncludePCH) $(IncludePath) $(PreprocessOnlySwitch) $(OutputSwitch) $(IntermediateDirectory)/main.cpp$(PreprocessSuffix) main.cpp
 

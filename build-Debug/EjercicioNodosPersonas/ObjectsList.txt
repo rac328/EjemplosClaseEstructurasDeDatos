@@ -1,1 +1,1 @@
-../build-Debug/EjercicioNodosPersonas/NodoPila.cpp.o ../build-Debug/EjercicioNodosPersonas/Pila.cpp.o ../build-Debug/EjercicioNodosPersonas/main.cpp.o ../build-Debug/EjercicioNodosPersonas/Persona.cpp.o   
+../build-Debug/EjercicioNodosPersonas/Pila.cpp.o ../build-Debug/EjercicioNodosPersonas/NodoPila.cpp.o ../build-Debug/EjercicioNodosPersonas/Persona.cpp.o ../build-Debug/EjercicioNodosPersonas/main.cpp.o   
