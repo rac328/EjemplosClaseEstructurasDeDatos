@@ -32,7 +32,7 @@ void Pila::mostrar(){
 	pnodoPila aux = ultimo;
 	cout << "\tEl contenido de la pila es: " << endl;
 	while(aux){
-		aux->persona.mostrar;
+		aux->persona.mostrar();
 		aux = aux -> siguiente;
 		}
 	cout << endl;

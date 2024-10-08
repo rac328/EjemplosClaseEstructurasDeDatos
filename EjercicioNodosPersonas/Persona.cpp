@@ -1,5 +1,6 @@
 #include "Persona.hpp"
 #include <iostream>
+
 using namespace std;
 
 Persona::Persona(int edad, bool genero)
@@ -21,9 +22,11 @@ void Persona::setEdad(int edad){
 
 void Persona::mostrar(){
 	if(this->genero)
-		cout << "\t" << "El Hombre" << "con DNI" << "2" << "tiene" << edad << "años" << endl;
+		//cout << "\t" << "El Hombre" << endl;
+		int pito = 0;
 	else
-		cout << "\t" << "La Mujer" << "con DNI" << "1" << "tiene" << edad << "años" << endl; 
+		//cout << "\t" << "La Mujer" << endl; 
+		int polla = 0;
 	}
 
 Persona::~Persona()

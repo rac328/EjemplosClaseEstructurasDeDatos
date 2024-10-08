@@ -1,10 +1,8 @@
 #include <iostream>
-#include <iomanip>
 
-class Persona
-{
+
+class Persona {
 public:
-	Persona();
 	Persona(int edad, bool genero);
 	~Persona();
 	int getEdad();
@@ -16,4 +14,4 @@ private:
 	bool genero;
 	int edad;
 	
-	};
+};
